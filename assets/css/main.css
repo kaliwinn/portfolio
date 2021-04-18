@@ -4693,7 +4693,7 @@ input, select, textarea {
 	width: 200px;
 }
 
-
+/* wrap columns at 1000px */
 @media screen and (max-width: 1000px) {
 	.about_columns {
 		flex-wrap: wrap
